@@ -1,0 +1,8 @@
+*.pyc
+datasets/*
+results/*
+*.aux
+*.bbl
+*.blg
+*.synctex.gz
+*.zip
